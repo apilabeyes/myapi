@@ -1,0 +1,6 @@
+[submodule "myapi01"]
+	path = myapi01
+	url = https://478a308f7b0c838ff8f0150f06000e854edeaeb1@github.com/apilabeyes/myapi01
+[submodule "myapi02"]
+	path = myapi02
+	url = https://478a308f7b0c838ff8f0150f06000e854edeaeb1@github.com/apilabeyes/myapi02
