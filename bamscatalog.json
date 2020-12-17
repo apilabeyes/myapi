@@ -67,6 +67,6 @@
     "category":"-",
     "api":"./myapi02/pets/openapi.json",
     "description":"ペットショップのAPIです。",
-    "images":"./myapi01/pets/pets.jpg"
+    "images":"./myapi02/pets/pets.jpg"
   }
 ]
